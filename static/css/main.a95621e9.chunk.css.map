@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,KACE,WAAY,CACZ,WAAY,CACb,kBAEC,SAAU,CACV,WAAY","file":"main.a95621e9.chunk.css","sourcesContent":[".App {\n  color: green;\n  margin: auto;\n}\n.slider-container {\n  width: 60%;\n  margin: auto;\n}"]}
